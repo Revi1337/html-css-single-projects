@@ -19,4 +19,18 @@
 
 ![Swipe Button](results/swipe-button.gif)
 
+<br><br>
+
+> Animated Profile
+
+* Reference
+
+```css 
+/* css */
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+```
+
+* Output (*GIF Maker* https://ezgif.com/)
+
+![Swipe Button](results/animated-profile.gif)
 
